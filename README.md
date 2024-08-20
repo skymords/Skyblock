@@ -17,14 +17,9 @@ Skyblock est un projet inspiré du mode de jeu populaire de Minecraft, où les j
 
 ## Fonctionnalités
 
-- 🌍 **Nouvelles Îles** : Découvrez plus de 10 îles uniques avec des biomes et des ressources exclusives.
-- 🔥 **Systèmes de Quêtes** : Complétez des quêtes et gagnez des récompenses pour progresser.
-- ⚒️ **Nouveaux Outils et Armes** : Des outils et armes spécialement conçus pour l'environnement Skyblock.
-- 🏰 **Structures Customisées** : Explorez des structures construites sur mesure avec des trésors cachés.
-- 🌿 **Agriculture Avancée** : Cultivez des plantes rares et découvrez de nouvelles recettes.
-- ⚙️ **Automatisation** : Systèmes d'automatisation pour la collecte de ressources et la fabrication d'objets.
-- 🎯 **Défis** : Affrontez des défis quotidiens et hebdomadaires pour tester vos compétences.
-- 📊 **Tableau de Bord** : Suivez vos statistiques et progrès avec un tableau de bord intégré.
+- 🌍 **Statistiques** : Les statistiques assignées au jeurs sont fonctionnelles.
+- 🔥 **Scoreboard** : Le scoreboard du joueur est fonctionnel, saisons, jour, heure.
+
 
 ## Mises à Jour à Venir
 
@@ -41,3 +36,6 @@ Skyblock est un projet inspiré du mode de jeu populaire de Minecraft, où les j
    git clone https://github.com/votre-utilisateur/skyblock.git
 
    <a href="https://github.com/mfts/papermark/graphs/contributors">
+
+# Contact
+- Vous pouvez me contacter sur discord en ajoutant Skymord
