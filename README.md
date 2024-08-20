@@ -39,3 +39,7 @@ Skyblock est un projet inspiré du mode de jeu populaire de Minecraft, où les j
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/votre-utilisateur/skyblock.git
+
+   <a href="https://github.com/mfts/papermark/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mfts/papermark" />
+</a>
