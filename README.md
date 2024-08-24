@@ -35,7 +35,6 @@ Skyblock est un projet inspiré du mode de jeu populaire de Minecraft, où les j
    ```bash
    git clone https://github.com/votre-utilisateur/skyblock.git
 
-   <a href="https://github.com/mfts/papermark/graphs/contributors">
 
 # Contact
 - Vous pouvez me contacter sur discord en ajoutant Skymord
